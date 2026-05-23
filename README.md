@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/small-town-saturday-night/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Small Town Saturday Night](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/small-town-saturday-night/) |
+| **Get License** | [Obtain a Music License for Small Town Saturday Night](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/small-town-saturday-night/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Pour the whiskey slow, let the shadows fall
+> Just you and me beneath this neon on the wall
+> Got the whole world waiting, but I'm staying right here
+> Losing track of time whenever you are near
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
