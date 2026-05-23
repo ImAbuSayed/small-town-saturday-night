@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/small-town-saturday-night/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Small Town Saturday Night](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/small-town-saturday-night/) |
+| **Get License** | [Music Rights & Licensing for Small Town Saturday Night](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/small-town-saturday-night/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `88fea6dd69435625166f331f8fbeaff46309c7f9320bdab4ab5bc401fbf4d020` |
 | **Timestamp** | May 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
